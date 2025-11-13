@@ -1,5 +1,5 @@
 # Factorial-Python-
-m test repo repo
+my test repo repo
 def factorial(n):
     return 1 if n == 0 else n * factorial(n-1)
 
